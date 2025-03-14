@@ -1,0 +1,7 @@
+whisper
+pyaudio
+numpy
+torch
+tk
+gtts
+ffmpeg-python
