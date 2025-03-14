@@ -7,7 +7,6 @@ Graficamente brutto e non sempre funzionante ma pur sempre Jarvis.
 
 ## 🚀 Installazione di Depowered Jarvis
 
-### 1️⃣ Clonare il repository
 ```bash
 git clone https://github.com/Lambru99/Depowered-Jarvis.git
 cd Depowered-Jarvis
